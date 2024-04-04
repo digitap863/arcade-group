@@ -75,8 +75,8 @@ body{
 
 
 .nv-logo img {
-    width: 100%;
-    height: 66px;
+    width: 55%;
+    /* height: 66px; */
     max-width: 150px;
 }
 .mobnav{
@@ -650,7 +650,7 @@ body{
     top: 0;
 }
 .home-footer-lastsec img {
-      width: 10%;
+      width: 7%;
     object-fit: contain;
 }
 
@@ -1130,7 +1130,7 @@ body{
     top: 2rem;
     border-radius: 50px;
     width: 55%;
-    height: 90vh;
+    /* height: 95vh; */
     background: rgba(240, 173, 105, 0.51);
 }
 .smsq h3 {
